@@ -1,18 +1,19 @@
 ### 👋 Hello, World! I'm Abhishek Kaushik
 
-I'm a passionate developer with an interest in Flutter-based mobile apps, backend development using Flask, and integrating Machine Learning to make applications smarter. 🚀
+I'm a passionate developer with an interest in backend development using NodeJS, and integrating Machine Learning to make applications smarter. 🚀
 
 - 🔭 Currently working on a mobile app for Farmers to help them manage their finances integrated with AI.
-- 🌱 Deep diving into Flutter's advanced topics and always excited about the latest Flutter updates.
+- 🌱 Deep diving into Backends's advanced topics and always excited about the latest Backend updates.
 - 🤖 Experimenting with new Machine Learning models and integrating them into web services using Flask.
 - 📚 Continuously learning about the intersection of Mobile App Development, Backend Services, and Machine Learning.
 - 🌍 Based in India.
 
 ## 🛠 Tech Stack
-- **Mobile App Development**: Flutter, Dart
-- **Backend**: Flask, Python, REST APIs
+- **Frontend Development**: React, Javascript 
+- **Mobile App Development**: Flutter, Dart 
+- **Backend**: Flask, Python, REST APIs, NodeJS
 - **Machine Learning**: TensorFlow, PyTorch, scikit-learn
-- **Databases**: SQLite, PostgreSQL, Firestore
+- **Databases**: SQLite, PostgreSQL, Firestore, MongoDB, Redis
 - **Other**: Docker, Git, CI/CD
 
 ## 📈 GitHub Stats
