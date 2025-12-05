@@ -94,9 +94,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhishek09827&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=abhishek09827&theme=transparent&hide_border=true)
 
 ---
 
