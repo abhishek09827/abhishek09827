@@ -92,12 +92,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abhishek09827&theme=transparent&hide_border=true)
-
----
-
 ## 🏆 Badges & Achievements
 
 <p align="center">
