@@ -98,18 +98,6 @@
   <img src="https://streak-stats.demolab.com?user=abhishek09827&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek09827&show_icons=true&theme=default&hide_border=true" alt="Stats" />
-</p>
-
----
-
-## 🔝 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek09827&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🏆 Badges & Achievements
