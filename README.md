@@ -102,7 +102,7 @@
 
 ## 📞 Get in Touch
 
-📩 **Email:** *(optional — add if you'd like)*  
+📩 **Email:** [Email](abhishekk09827@gmail.com)  
 🔗 **Portfolio:** [GitHub Portfolio](https://github.com/abhishek09827/abhishek09827)  
 💼 **LinkedIn:** [Abhishek Kaushik](https://www.linkedin.com/in/abhishek-kaushik-0a6a16243/)  
 🧠 **LeetCode:** [Profile](https://leetcode.com/abhishekk09827/)  
