@@ -50,8 +50,8 @@
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis" />
 </p>
 
-- PostgreSQL, SQLite  
-- MongoDB, Firestore  
+- PostgreSQL  
+- MongoDB, Firestore, Supabase  
 - Redis  
 - MinIO (S3-compatible Object Storage)
 
@@ -59,8 +59,8 @@
 
 ### 🔄 Data Engineering & Pipelines
 - Apache Airflow  
-- Kafka / Redpanda  
-- dbt (DuckDB / PostgreSQL)  
+- Kafka  
+- dbt (PostgreSQL)  
 - ETL / ELT Pipelines  
 - Dimensional Modeling — **Star Schema, SCD Type 2**
 
@@ -84,9 +84,9 @@
 </p>
 
 - Git, GitHub  
-- Postman, Thunder Client  
+- Postman
 - VS Code, Cursor IDE  
-- UML, System Design (Draw.io, Mermaid)
+- UML, System Design (Draw.io, Excalidraw)
 
 🌍 Based in **India**
 
@@ -106,7 +106,6 @@
 🔗 **Portfolio:** [GitHub Portfolio](https://github.com/abhishek09827/abhishek09827)  
 💼 **LinkedIn:** [Abhishek Kaushik](https://www.linkedin.com/in/abhishek-kaushik-0a6a16243/)  
 🧠 **LeetCode:** [Profile](https://leetcode.com/abhishekk09827/)  
-✍️ **Blog:** [Hashnode](https://hashnode.com/@abhishekk09827)
 
 ---
 
