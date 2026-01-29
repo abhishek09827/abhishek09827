@@ -91,7 +91,7 @@
 🌍 Based in **India**
 
 ---
-<img src="https://www.githubtimeline.com/api/embed/stats/YOUR_LICENSE_KEY?theme=cherry-blossom" alt="GitHub Stats" />
+![GitHub Stats](https://www.githubtimeline.com/api/embed/stats/YOUR_LICENSE_KEY?theme=cherry-blossom)
 
 <!-- Optional parameters:
   - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light)
