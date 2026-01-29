@@ -91,13 +91,6 @@
 🌍 Based in **India**
 
 ---
-![GitHub Stats](https://www.githubtimeline.com/api/embed/stats/YOUR_LICENSE_KEY?theme=cherry-blossom)
-
-<!-- Optional parameters:
-  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light)
-  - width: 400-1200 (default: 800)
--->
----
 
 ## 🏆 Badges & Achievements
 
