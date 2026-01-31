@@ -23,7 +23,7 @@
 ---
 
 ## 🔭 What I’m Working On
-- 🧠 Open-source contributions (dbt-core, data tooling)
+- 🧠 Open-source contributions (dbt-core)
 - 🤖 GenAI-powered backends (RAG, NL → SQL, agents)
 - ☁️ Cost-aware cloud architectures & observability
 - 🔄 Data pipelines with **Airflow + dbt + Kafka**
@@ -57,7 +57,7 @@
 
 ### 🔄 Data Engineering & GenAI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=airflow,kafka,pytorch,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=airflow,kafka,pytorch&theme=dark" />
 </p>
 
 - Apache Airflow, Kafka  
@@ -77,8 +77,9 @@
 - Linux, Shell scripting  
 - CI/CD with GitHub Actions  
 - Git & GitHub  
-- VS Code, Cursor IDE  
-- System design (Draw.io, Excalidraw)
+- VS Code
+- System design (Excalidraw)
+- Jira, Confluence
 
 ---
 
