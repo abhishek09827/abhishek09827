@@ -1,8 +1,9 @@
 <!-- Hero Banner -->
 
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/6b652d3a-ce12-4c6b-8830-62c5d72a9b92" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4C8BF5&size=22&center=true&vCenter=true&width=800&lines=Building+Scalable+Backends;Cloud-Native+%26+Serverless+Systems;Applied+GenAI+in+Production;Data+Engineering+%26+Automation;Always+Learning%2C+Always+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4C8BF5&size=22&center=true&vCenter=true&width=900&lines=Production-Grade+Backend+Engineer;LLM+%26+RAG+Systems+in+Production;Cloud-Native+Distributed+Architectures;Data+Engineering+%26+Automation;Building+Systems+That+Scale" />
 </p>
 
 <p align="center">
@@ -11,31 +12,62 @@
 
 ---
 
-## 💼 Experience
+# 👋 Hi, I'm Abhishek
 
-### 🏢 Cloud Developer — **Hewlett Packard Enterprise (HPE)**
-- Building **cloud-native, distributed backend systems**
-- Developing services using **Node.js, Python, AWS**
-- Worked on **automation, ingestion pipelines, PII masking, data validation**
-- Experience with **CI/CD, DevOps workflows, and production debugging**
-- Exploring **GenAI integration** in real-world enterprise systems
+Backend & Applied AI Engineer focused on **building scalable, observable, production-ready systems**.
+
+I work at the intersection of:
+
+- Cloud-native backend engineering  
+- Data platforms & distributed systems  
+- LLM-powered applications (RAG, NL - SQL, agents)  
+- Cost-aware and reliability-first architectures  
+
+I care about systems that survive production - not just demos.
 
 ---
 
-## 🔭 What I’m Working On
-- 🧠 Open-source contributions (dbt-core)
-- 🤖 GenAI-powered backends (RAG, NL → SQL, agents)
-- ☁️ Cost-aware cloud architectures & observability
-- 🔄 Data pipelines with **Airflow + dbt + Kafka**
-- 🧪 Internal tools & developer productivity automation
+## 💼 Experience
+
+### 🏢 Cloud Developer - Hewlett Packard Enterprise (HPE)
+
+- Designing and building **cloud-native distributed backend services**
+- Developing production systems using **Node.js, Python, AWS**
+- Built ingestion pipelines with **PII masking, validation, transformation layers**
+- Worked on CI/CD automation, observability, and production debugging
+- Exploring real-world **GenAI integration inside enterprise workflows**
+
+---
+
+## 🌍 Open Source Contributions
+
+Actively contributing to core ecosystem tools:
+
+- Contributions to **dbt-core** (data transformation engine)
+- Contributions to **LlamaIndex** (LLM orchestration framework)
+
+I enjoy working with maintainers, understanding architecture tradeoffs, and improving core systems.
+
+---
+
+## 🔭 What I’m Currently Focused On
+
+- Production-ready **RAG architectures**
+- Retrieval evaluation & cost optimization
+- NL - SQL systems with validation layers
+- Observability-first backend design
+- Data pipelines using **Airflow + dbt + Kafka**
+- AI-assisted developer tooling
 
 ---
 
 ## 🧠 Engineering Philosophy
-- Simple, observable systems > clever abstractions  
-- Design for failure, retries, and scale  
-- AI should **reduce toil**, not add magic  
-- Maintainability > premature optimization  
+
+- Build systems, not scripts  
+- Design for retries, failure, and scale  
+- Observability is not optional  
+- AI should reduce operational complexity  
+- Measure latency, cost, and reliability  
 
 ---
 
@@ -50,36 +82,36 @@
 - Python (FastAPI, Flask)  
 - REST APIs, Microservices, Webhooks  
 - AWS (Lambda, S3, EC2, API Gateway)  
-- Docker, Serverless Architectures  
+- Docker & Serverless Architectures  
 - PostgreSQL, MongoDB, Redis, Supabase  
 
 ---
 
-### 🔄 Data Engineering & GenAI
+### 🔄 Data Engineering & Applied AI
 <p align="center">
   <img src="https://skillicons.dev/icons?i=airflow,kafka,pytorch&theme=dark" />
 </p>
 
 - Apache Airflow, Kafka  
-- dbt (PostgreSQL), ETL / ELT pipelines  
-- RAG (Retrieval-Augmented Generation)  
+- dbt (Postgres) - ELT pipelines  
+- Retrieval-Augmented Generation (RAG)  
 - LangChain, LlamaIndex  
-- Natural Language → SQL systems  
-- Model serving with FastAPI / Flask  
+- Natural Language - SQL systems  
+- LLM-backed APIs & model serving  
 
 ---
 
-### 🧰 DevOps & Developer Tools
+### 🧰 DevOps & Developer Productivity
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,git,githubactions,vscode&theme=dark" />
 </p>
 
 - Linux, Shell scripting  
 - CI/CD with GitHub Actions  
-- Git & GitHub  
-- VS Code
-- System design (Excalidraw)
-- Jira, Confluence
+- Git & GitHub workflows  
+- Production debugging & monitoring  
+- System design (Excalidraw)  
+- Jira, Confluence  
 
 ---
 
@@ -96,36 +128,31 @@
 
 ---
 
-## 🧠 LeetCode
+## 🧠 Problem Solving
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/abhishekk09827?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
----
-
-## 🏆 Badges & Achievements
-<p align="center">
-  <img src="https://holopin.me/abhishek09827" alt="Holopin Badges" />
-</p>
+I practice data structures & algorithms to strengthen system design fundamentals.
 
 ---
 
-## 📞 Get in Touch
+## 📞 Let’s Connect
 
-📩 **Email:** [abhishekk09827@gmail.com](mailto:abhishekk09827@gmail.com)  
-💼 **LinkedIn:** [Abhishek Kaushik](https://www.linkedin.com/in/abhishek-kaushik-0a6a16243/)  
+📩 **Email:** abhishekk09827@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-kaushik-0a6a16243/  
 🧠 **LeetCode:** https://leetcode.com/abhishekk09827/  
 🌐 **GitHub:** https://github.com/abhishek09827  
 
-💬 Open to discussions on **Backend, Cloud, Data Engineering & GenAI**
+💬 Open to remote opportunities in Backend, Data Platforms & Applied AI.
 
 ---
 
 <p align="center">
-  <b>⭐ If you like my work, feel free to star my repositories!</b>
+  <b>⭐ If you find my work interesting, feel free to explore and connect.</b>
 </p>
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:4C8BF5&height=100&section=footer" />
 </p>
