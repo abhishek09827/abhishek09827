@@ -1,158 +1,138 @@
-<!-- Hero Banner -->
+<div align="center">
 
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/6b652d3a-ce12-4c6b-8830-62c5d72a9b92" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4C8BF5&size=22&center=true&vCenter=true&width=900&lines=Production-Grade+Backend+Engineer;LLM+%26+RAG+Systems+in+Production;Cloud-Native+Distributed+Architectures;Data+Engineering+%26+Automation;Building+Systems+That+Scale" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek09827&label=Profile%20Views&color=4C8BF5&style=flat" />
-</p>
+```
+Data Engineer · Applied AI · Open Source Contributor
+```
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=abhishek09827&label=Profile%20Views&color=4C8BF5&style=flat)](https://github.com/abhishek09827)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhishek--kaushik-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishek-kaushik-0a6a16243/)
+[![Blog](https://img.shields.io/badge/Blog-ab--blog.hashnode.dev-2962FF?style=flat&logo=hashnode)](https://ab-blog.hashnode.dev/)
 
-# 👋 Hi, I'm Abhishek
-
-Backend & Applied AI Engineer focused on **building scalable, observable, production-ready systems**.
-
-I work at the intersection of:
-
-- Cloud-native backend engineering  
-- Data platforms & distributed systems  
-- LLM-powered applications (RAG, NL - SQL, agents)  
-- Cost-aware and reliability-first architectures  
-
-I care about systems that survive production - not just demos.
+</div>
 
 ---
 
-## 💼 Experience
+## About
 
-### 🏢 Cloud Developer - Hewlett Packard Enterprise (HPE)
+Data Engineer at **Hewlett Packard Enterprise** building large-scale streaming and batch ingestion systems with Apache Kafka, PySpark, and Airflow across cloud and on-prem environments.
 
-- Designing and building **cloud-native distributed backend services**
-- Developing production systems using **Node.js, Python, AWS**
-- Built ingestion pipelines with **PII masking, validation, transformation layers**
-- Worked on CI/CD automation, observability, and production debugging
-- Exploring real-world **GenAI integration inside enterprise workflows**
+I work at the intersection of **data platform engineering**, **applied AI**, and **developer tooling** — with a focus on systems that are measurable, observable, and honest about their limitations.
 
----
-
-## 🌍 Open Source Contributions
-
-Actively contributing to core ecosystem tools:
-
-- Contributions to **dbt-core** (data transformation engine)
-- Contributions to **LlamaIndex** (LLM orchestration framework)
-
-I enjoy working with maintainers, understanding architecture tradeoffs, and improving core systems.
+- 🔧 Published [`SageScan`](https://pypi.org/project/sagescan/) to PyPI — a CLI data-quality validator (Go + Python) with 17 validator types and chunked processing for multi-GB datasets
+- 🤝 Merged PRs in **dbt-core** ([#12390](https://github.com/dbt-labs/dbt-core/pull/12390), [#12358](https://github.com/dbt-labs/dbt-core/pull/12358)) and **LlamaIndex** ([#20661](https://github.com/run-llama/llama_index/pull/20661), [#20787](https://github.com/run-llama/llama_index/pull/20787))
+- 📐 Interested in: schema evolution, retrieval evaluation, NL-to-SQL systems, and AIOps
 
 ---
 
-## 🔭 What I’m Currently Focused On
+## Experience
 
-- Production-ready **RAG architectures**
-- Retrieval evaluation & cost optimization
-- NL - SQL systems with validation layers
-- Observability-first backend design
-- Data pipelines using **Airflow + dbt + Kafka**
-- AI-assisted developer tooling
+**Cloud Developer I — Hewlett Packard Enterprise** *(Aug 2025 – Present)*
+- Streaming and batch ETL at scale using Apache Kafka and Airflow across cloud and on-prem
+- Schema evolution and serialization with Avro and Protobuf across distributed ingestion systems
+- PySpark transformation jobs containerized with Docker, deployed on Kubernetes + MinIO
+- PII masking and ingestion-boundary governance controls
+- Automated deployments via ArgoCD, CronWorkflows, and GitHub Actions
 
----
-
-## 🧠 Engineering Philosophy
-
-- Build systems, not scripts  
-- Design for retries, failure, and scale  
-- Observability is not optional  
-- AI should reduce operational complexity  
-- Measure latency, cost, and reliability  
+**SDE Intern — Hewlett Packard Enterprise** *(Feb 2025 – Aug 2025)*
+- Ingestion pipelines with AWS Glue and Lambda; data-quality validation frameworks in SQL and PySpark
+- ML telemetry prototypes with SageMaker; structured logging and ETL observability improvements
 
 ---
 
-## 🛠 Tech Stack
+## Open Source
 
-### 🚀 Backend, Cloud & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,aws,docker,postgres,mongodb,redis&theme=dark" />
-</p>
-
-- Node.js, Express.js  
-- Python (FastAPI, Flask)  
-- REST APIs, Microservices, Webhooks  
-- AWS (Lambda, S3, EC2, API Gateway)  
-- Docker & Serverless Architectures  
-- PostgreSQL, MongoDB, Redis, Supabase  
+| Project | Contribution | PR |
+|---|---|---|
+| **dbt-core** | Seed-column validation for mismatched type configs | [#12390](https://github.com/dbt-labs/dbt-core/pull/12390) |
+| **dbt-core** | Parser test coverage for Python model verification | [#12358](https://github.com/dbt-labs/dbt-core/pull/12358) |
+| **LlamaIndex** | Prompt-template maintainability improvements | [#20661](https://github.com/run-llama/llama_index/pull/20661) |
+| **LlamaIndex** | Multilingual-aware semantic chunking for mixed-language retrieval | [#20787](https://github.com/run-llama/llama_index/pull/20787) |
 
 ---
 
-### 🔄 Data Engineering & Applied AI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=airflow,kafka,pytorch&theme=dark" />
-</p>
+## Projects
 
-- Apache Airflow, Kafka  
-- dbt (Postgres) - ELT pipelines  
-- Retrieval-Augmented Generation (RAG)  
-- LangChain, LlamaIndex  
-- Natural Language - SQL systems  
-- LLM-backed APIs & model serving  
+### [SageScan](https://github.com/abhishek09827/sagescan) — CLI Data Quality Validator
+`Go` `Python` `Cobra` `Pandas` `Pydantic v2` `PyPI`
+
+- 17 validator types: schema, statistical, and drift validation
+- Chunked processing for multi-GB CSVs at 125K+ rows/sec (Intel i5 / 16GB RAM, 1M-row benchmark), 599MB peak memory
+- KS-test + PSI drift detection for statistical distribution shifts
+- Optional LLM-assisted YAML rule generation — raw data never leaves the machine
 
 ---
 
-### 🧰 DevOps & Developer Productivity
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,githubactions,vscode&theme=dark" />
-</p>
+### [QueryMind-DW](https://github.com/abhishek09827/querymind-dw) — NL-to-SQL Data Warehouse
+`Python` `LangChain` `FastAPI` `Kafka` `dbt` `DuckDB` `PostgreSQL` `Redis` `MinIO`
 
-- Linux, Shell scripting  
-- CI/CD with GitHub Actions  
-- Git & GitHub workflows  
-- Production debugging & monitoring  
-- System design (Excalidraw)  
-- Jira, Confluence  
+- End-to-end warehouse: Kafka ingestion → MinIO data lake → dbt transforms (SCD Type 2) → DuckDB/PostgreSQL → Streamlit dashboards
+- DuckDB for analytical execution (vectorized engine, low operational overhead); PostgreSQL for transactional serving and metadata
+- 67% NL-to-SQL accuracy on aggregations, joins, subqueries, and window functions via schema-aware prompt injection
+- Redis caching layer: 14.9s → 1ms on cache hits; SQL safety validator blocking destructive statements pre-execution
 
 ---
 
-## 📊 GitHub Overview
+### [OI-Engine](https://github.com/abhishek09827/oi-engine) — Agentic AIOps Platform
+`Python` `FastAPI` `CrewAI` `Kafka` `Redis` `PostgreSQL` `pgvector` `Docker`
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek09827&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek09827&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek09827&theme=github_dark" />
-</p>
+- Multi-agent orchestration (CrewAI) for anomaly detection, incident summarization, remediation planning, and root-cause retrieval
+- Two-stage filtering: Z-score pre-filter (tuned on labeled log-event datasets) → LLM inference; 98% candidate reduction at 14.5K+ events/sec ingestion
+- pgvector semantic retrieval for historical incident similarity; Redis-backed agent memory; Prometheus observability
 
 ---
 
-## 🧠 Problem Solving
+## Tech Stack
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/abhishekk09827?theme=dark&font=Karma&ext=heatmap" />
-</p>
+**Data Engineering**
+`Apache Kafka` `Apache Airflow` `PySpark` `dbt` `AWS Glue` `MinIO` `Avro` `Protobuf` `Schema Evolution` `Stream Processing`
 
-I practice data structures & algorithms to strengthen system design fundamentals.
+**AI / LLM Systems**
+`RAG Pipelines` `LangChain` `LlamaIndex` `pgvector` `CrewAI` `Multi-Agent Systems` `Evaluation Pipelines`
+
+**Languages**
+`Python` `Go` `SQL` `JavaScript` `Shell Scripting`
+
+**Cloud & DevOps**
+`AWS (Glue · SageMaker · Lambda · S3)` `Docker` `Kubernetes` `ArgoCD` `GitHub Actions`
+
+**Backend & Databases**
+`FastAPI` `GraphQL` `REST APIs` `PostgreSQL` `DuckDB` `Redis`
+
+**Observability**
+`Prometheus` `Grafana` `KPow` `Structured Logging`
 
 ---
 
-## 📞 Let’s Connect
+## GitHub
 
-📩 **Email:** abhishekk09827@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-kaushik-0a6a16243/  
-🧠 **LeetCode:** https://leetcode.com/abhishekk09827/  
-🌐 **GitHub:** https://github.com/abhishek09827  
+<div align="center">
 
-💬 Open to remote opportunities in Backend, Data Platforms & Applied AI.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek09827&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek09827&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek09827&theme=github_dark" />
+
+</div>
 
 ---
 
-<p align="center">
-  <b>⭐ If you find my work interesting, feel free to explore and connect.</b>
-</p>
+## DSA
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:4C8BF5&height=100&section=footer" />
-</p>
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/abhishekk09827?theme=dark&font=Karma&ext=heatmap" />
+</div>
+
+---
+
+## Contact
+
+📩 abhishekk09827@gmail.com  
+💼 [linkedin.com/in/abhishek-kaushik-0a6a16243](https://www.linkedin.com/in/abhishek-kaushik-0a6a16243/)  
+🌐 [github.com/abhishek09827](https://github.com/abhishek09827)  
+✍️ [ab-blog.hashnode.dev](https://ab-blog.hashnode.dev/)
+
+Open to remote opportunities in **Data Engineering** and **Applied AI**.
