@@ -7,7 +7,6 @@
 ```
 Data Engineer · Applied AI · Open Source Contributor
 ```
-
 [![Profile Views](https://komarev.com/ghpvc/?username=abhishek09827&label=Profile%20Views&color=4C8BF5&style=flat)](https://github.com/abhishek09827)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhishek--kaushik-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishek-kaushik-0a6a16243/)
 [![Blog](https://img.shields.io/badge/Blog-ab--blog.hashnode.dev-2962FF?style=flat&logo=hashnode)](https://ab-blog.hashnode.dev/)
