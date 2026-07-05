@@ -21,7 +21,7 @@ Data Engineer at **Hewlett Packard Enterprise** building large-scale streaming a
 
 I work at the intersection of **data platform engineering**, **applied AI**, and **developer tooling** — with a focus on systems that are measurable, observable, and honest about their limitations.
 
-- 🔧 Published [`SageScan`](https://pypi.org/project/sagescan-data/) to PyPI — a CLI data-quality validator (Go + Python) with 17 validator types and chunked processing for multi-GB datasets
+- 🔧 Published [`SageScan`](https://pypi.org/project/sagescan-data/) to PyPI - a CLI data-quality validator (Go + Python) with 17 validator types and chunked processing for multi-GB datasets
 - 🤝 Merged PRs in **dbt-core** ([#12390](https://github.com/dbt-labs/dbt-core/pull/12390), [#12358](https://github.com/dbt-labs/dbt-core/pull/12358)) and **LlamaIndex** ([#20661](https://github.com/run-llama/llama_index/pull/20661), [#20787](https://github.com/run-llama/llama_index/pull/20787))
 - 📐 Interested in: schema evolution, retrieval evaluation, NL-to-SQL systems, and AIOps
 
