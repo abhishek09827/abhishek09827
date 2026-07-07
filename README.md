@@ -19,7 +19,7 @@ Data Engineer · Applied AI · Open Source Contributor
 
 Data Engineer at **Hewlett Packard Enterprise** building large-scale streaming and batch ingestion systems with Apache Kafka, PySpark, and Airflow across cloud and on-prem environments.
 
-I work at the intersection of **data platform engineering**, **applied AI**, and **developer tooling** — with a focus on systems that are measurable, observable, and honest about their limitations.
+I work at the intersection of **data platform engineering**, **applied AI**, and **developer tooling** - with a focus on systems that are measurable, observable, and honest about their limitations.
 
 - 🔧 Published [`SageScan`](https://pypi.org/project/sagescan-data/) to PyPI - a CLI data-quality validator (Go + Python) with 17 validator types and chunked processing for multi-GB datasets
 - 🤝 Merged PRs in **dbt-core** ([#12390](https://github.com/dbt-labs/dbt-core/pull/12390), [#12358](https://github.com/dbt-labs/dbt-core/pull/12358)) and **LlamaIndex** ([#20661](https://github.com/run-llama/llama_index/pull/20661), [#20787](https://github.com/run-llama/llama_index/pull/20787))
@@ -29,14 +29,14 @@ I work at the intersection of **data platform engineering**, **applied AI**, and
 
 ## Experience
 
-**Cloud Developer I — Hewlett Packard Enterprise** *(Aug 2025 – Present)*
+**Cloud Developer I - Hewlett Packard Enterprise** *(Aug 2025 – Present)*
 - Streaming and batch ETL at scale using Apache Kafka and Airflow across cloud and on-prem
 - Schema evolution and serialization with Avro and Protobuf across distributed ingestion systems
 - PySpark transformation jobs containerized with Docker, deployed on Kubernetes + MinIO
 - PII masking and ingestion-boundary governance controls
 - Automated deployments via ArgoCD, CronWorkflows, and GitHub Actions
 
-**SDE Intern — Hewlett Packard Enterprise** *(Feb 2025 – Aug 2025)*
+**SDE Intern - Hewlett Packard Enterprise** *(Feb 2025 – Aug 2025)*
 - Ingestion pipelines with AWS Glue and Lambda; data-quality validation frameworks in SQL and PySpark
 - ML telemetry prototypes with SageMaker; structured logging and ETL observability improvements
 
@@ -55,17 +55,17 @@ I work at the intersection of **data platform engineering**, **applied AI**, and
 
 ## Projects
 
-### [SageScan](https://github.com/abhishek09827/sagescan) — CLI Data Quality Validator
+### [SageScan](https://github.com/abhishek09827/sagescan) - CLI Data Quality Validator
 `Go` `Python` `Cobra` `Pandas` `Pydantic v2` `PyPI`
 
 - 17 validator types: schema, statistical, and drift validation
 - Chunked processing for multi-GB CSVs at 125K+ rows/sec (Intel i5 / 16GB RAM, 1M-row benchmark), 599MB peak memory
 - KS-test + PSI drift detection for statistical distribution shifts
-- Optional LLM-assisted YAML rule generation — raw data never leaves the machine
+- Optional LLM-assisted YAML rule generation - raw data never leaves the machine
 
 ---
 
-### [QueryMind-DW](https://github.com/abhishek09827/querymind-dw) — NL-to-SQL Data Warehouse
+### [QueryMind-DW](https://github.com/abhishek09827/querymind-dw) - NL-to-SQL Data Warehouse
 `Python` `LangChain` `FastAPI` `Kafka` `dbt` `DuckDB` `PostgreSQL` `Redis` `MinIO`
 
 - End-to-end warehouse: Kafka ingestion → MinIO data lake → dbt transforms (SCD Type 2) → DuckDB/PostgreSQL → Streamlit dashboards
@@ -75,7 +75,7 @@ I work at the intersection of **data platform engineering**, **applied AI**, and
 
 ---
 
-### [OI-Engine](https://github.com/abhishek09827/oi-engine) — Agentic AIOps Platform
+### [OI-Engine](https://github.com/abhishek09827/oi-engine) - Agentic AIOps Platform
 `Python` `FastAPI` `CrewAI` `Kafka` `Redis` `PostgreSQL` `pgvector` `Docker`
 
 - Multi-agent orchestration (CrewAI) for anomaly detection, incident summarization, remediation planning, and root-cause retrieval
