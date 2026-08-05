@@ -4,7 +4,6 @@
 
 <br/>
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4C8BF5&center=true&vCenter=true&width=600&lines=%24+whoami;abhishek+%E2%80%94+cloud+dev+%2F+applied+ai;%24+cat+status.log;building+anveshan+%7C+agent+trace+eval)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abhishek09827&label=views&color=0d1117&style=flat-square)](https://github.com/abhishek09827)
